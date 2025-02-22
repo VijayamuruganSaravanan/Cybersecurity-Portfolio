@@ -31,7 +31,21 @@ Hello! I'm **Vijayamurugan Saravanan**, a cybersecurity professional specializin
 - **Novel Detection Technique for Keyloggers** – Created a Java-based keylogger detection tool using keystroke pattern analysis.
 - **Secure & Customizable Website Platform** – Developed a Java-based website platform with Blowfish encryption and machine learning-based customization.
 
-## 📜 Certifications
+## 📜 Certifications and Training
+### Cybersecurity Training
+- **AIG Shields Up: Cybersecurity Virtual Experience (Forage) – February 2025**  
+  - Conducted cybersecurity threat analysis, researched vulnerabilities, and drafted remediation strategies.  
+  - Developed a Python script for ethical hacking to bruteforce decryption keys.  
+
+- **Tata Cybersecurity Security Analyst Job Simulation (Forage) – February 2025**  
+  - Worked on IAM (Identity and Access Management) within a cybersecurity consulting team.  
+  - Gained expertise in IAM principles and best practices.  
+
+- **Mastercard Cybersecurity Virtual Experience (Forage) – February 2025**  
+  - Identified security threats like phishing and improved security awareness training.  
+  - Designed new training courses to enhance cybersecurity awareness.
+ 
+### Certifications  
 - [ISC2 Certified in Cybersecurity (CC)]
 - [TestOut Cyber Defense Pro]
 - [Google Cybersecurity Certificate]

@@ -59,7 +59,7 @@ Cybersecurity-Portfolio/
 
 ## 📬 Contact Me
 - **LinkedIn:** [linkedin.com/in/saravanan-vijayamurugan](https://linkedin.com/in/saravanan-vijayamurugan)
-- **GitHub:** [github.com/yourusername](https://github.com/VijayamuruganSaravanan)
+- **GitHub:** [github.com/VijayamuruganSaravanan](https://github.com/VijayamuruganSaravanan)
 - **Email:** saravanan.vijayamurugan@outlook.com
 
 > *This portfolio is a work in progress. Stay tuned for more updates!* 🚀

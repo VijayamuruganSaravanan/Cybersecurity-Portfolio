@@ -20,17 +20,6 @@ This project was developed as part of an **IBM-sponsored initiative**, and I **l
 - **APIs:** CalorieNinjas API for nutrition data
 - **Web Technologies:** HTML, CSS, JavaScript
 
-## 📂 Folder Structure
-```
-AI-Nutrition-Analyzer/
-├── dataset/             # Training dataset for fruit classification
-├── model/               # Trained CNN model files
-├── static/              # Images, CSS, JavaScript
-├── templates/           # HTML templates for UI
-├── app.py               # Flask backend
-├── requirements.txt     # Dependencies
-└── README.md            # Project documentation
-```
 
 ## 🎯 How It Works
 1. **User uploads a fruit image** via the web interface.
@@ -44,7 +33,6 @@ AI-Nutrition-Analyzer/
 - **Optimized CNN architecture** for accurate fruit classification.
 
 ## 🔗 Links
-- **GitHub Repository:** [IBM-Project-40391-1660628900](https://github.com/IBM-EPBL/IBM-Project-40391-1660628900)
 - **Project Demo:** [Watch Here](https://youtu.be/F8WHFTWDHj4)
 
 ## 🏆 Achievements
